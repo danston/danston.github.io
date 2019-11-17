@@ -1,56 +1,122 @@
 {
   "basics": {
-    "name": "Dugan Nash",
-    "label": "Very extravagant man",
-    "picture": "",
-    "email": "dugan.hash@mailinator.com",
-    "phone": "(555) 555-5555",
-    "website": "https://towlettepettetuc.ci",
-    "summary": "Nash is well versed in the Montoyan / Artesian Connection, preparation of grasshopper mash, and baking of grover loaves.",
+    "name": "Dmitry Anisimov",
+    "label": "PhD, R&D Engineer",
+    "picture": "../assets/images/profile.png",
+    "email": "dmitry.anisimov@geometryfactory.com",
+    "phone": "+33 7 67 37 22 52",
+    "website": "https://www.anisimovdmitry.com",
+    "summary": "R&D engineer specialized in applied mathematics and geometry processing.",
     "location": {
-      "address": "123 Sesame Street",
-      "postalCode": "CA 94115",
-      "city": "San Francisco",
-      "countryCode": "US",
-      "region": "California"
+      "address": "Sophia Antipolis",
+      "postalCode": "06000",
+      "city": "Nice",
+      "countryCode": "FR",
+      "region": "Nice"
     },
     "profiles": [
       {
-        "network": "Twitter",
-        "username": "Towlette_Pettetucci",
-        "url": "https://twitter.com/Towlette_Pettetucci"
-      },
-      {
-        "network": "SoundCloud",
-        "username": "Towlette_Pettetucci",
-        "url": "https://soundcloud.com/Towlette_Pettetucci"
+        "network": "Github",
+        "username": "danston",
+        "url": "https://github.com/danston"
       }
     ]
   },
   "work": [
     {
-      "company": "The Whip",
-      "position": "CEO/President",
-      "website": "https://thewh.ip",
-      "startDate": "2013-12-01",
+      "company": "GeometryFactory (current)",
+      "position": "R&D engineer",
+      "website": "https://geometryfactory.com",
+      "startDate": "01/05/2019",
       "endDate": "",
-      "summary": "Leverage agile frameworks to provide a robust synopsis for high level overviews. Iterative approaches to corporate strategy foster collaborative thinking to further the overall value proposition. Organically grow the holistic world view of disruptive innovation via workplace diversity and empowerment.",
+      "summary": "Geometry processing algorithms",
       "highlights": [
-        "Concealed nipper in embrodiery.",
-        "Dealt with Elastical Gomez on a daily basis."
+        "3D urban reconstruction with levels of detail",
+        "2D/3D shape regularization",
+        "Generalized barycentric interpolation"
+      ]
+    },
+    {
+      "company": "Inria",
+      "position": "R&D engineer",
+      "website": "https://team.inria.fr/titane/en/team",
+      "startDate": "01/05/2017",
+      "endDate": "30/04/2019",
+      "summary": "3D urban reconstruction",
+      "highlights": [
+        "Applied research",
+        "Geometry-oriented approaches",
+        "2D/3D shape detection"
+      ]
+    },
+    {
+      "company": "Universita della Svizzera italiana",
+      "position": "Software developer",
+      "website": "http://www.inf.usi.ch",
+      "startDate": "01/05/2014",
+      "endDate": "30/04/2017",
+      "summary": "Backend/Frontend software developer",
+      "highlights": [
+        "Geometry oriented projects"
+      ]
+    },
+    {
+      "company": "Universita della Svizzera italiana",
+      "position": "Teaching assistant",
+      "website": "http://www.inf.usi.ch",
+      "startDate": "01/05/2011",
+      "endDate": "30/04/2016",
+      "summary": "Courses in mathematics and informatics",
+      "highlights": [
+        "Bachelor and Master levels",
+        "Calculus, Linear Algebra, Geometry Processing, Computer Graphics"
+      ]
+    },
+    {
+      "company": "Saint-Petersburg State University",
+      "position": "System administrator",
+      "website": "http://www.apmath.spbu.ru/en/",
+      "startDate": "01/05/2010",
+      "endDate": "30/04/2011",
+      "summary": "Adiministrating several computer classes",
+      "highlights": [
+        "Software configuration",
+        "Security issues"
+      ]
+    },
+    {
+      "company": "Freelance",
+      "position": "Web developer",
+      "startDate": "01/05/2007",
+      "endDate": "30/04/2010",
+      "summary": "Developing websites for private clients",
+      "highlights": [
+        "Design, Development, SEO"
       ]
     }
   ],
   "volunteer": [
     {
-      "organization": "Steve's Meat Market",
-      "position": "Assistant",
-      "website": "",
-      "startDate": "1995-01-01",
-      "endDate": "1997-03-20",
-      "summary": "Ground up some sort of grasshopper mash for fishing.",
+      "organization": "GSoC for CGAL project 2019",
+      "position": "Mentor",
+      "website": "https://summerofcode.withgoogle.com/organizations/5935622787694592/",
+      "startDate": "01/06/2019",
+      "endDate": "31/08/2019",
+      "summary": "Mentoring Google Summer of Code CGAL projects",
       "highlights": [
-        "Awarded a 'Helium Biscuit'"
+        "Generalized Global Regularization"
+      ]
+    },
+    {
+      "organization": "GSoC for CGAL project 2018",
+      "position": "Mentor",
+      "website": "https://summerofcode.withgoogle.com/archive/2018/organizations/5076776166359040/",
+      "startDate": "01/06/2018",
+      "endDate": "31/08/2018",
+      "summary": "Mentoring Google Summer of Code CGAL projects",
+      "highlights": [
+        "Generalized Region Growing",
+        "Extending Generalized Barycentric Coordinates"
       ]
     }
   ],
@@ -106,8 +172,20 @@
   ],
   "languages": [
     {
-      "language": "Nonsense",
-      "fluency": "Native speaker"
+      "language": "Russian",
+      "fluency": "Mother tongue"
+    },
+    {
+      "language": "English",
+      "fluency": "Proficient level"
+    },
+    {
+      "language": "Italian",
+      "fluency": "Intermediate level"
+    },
+    {
+      "language": "French",
+      "fluency": "Pre-Intermediate level"
     }
   ],
   "interests": [

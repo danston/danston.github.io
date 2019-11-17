@@ -1,8 +1,8 @@
 ---
-title: Curriculum Vitæ
+title: Curriculum Vitae
 layout: cv
 actions:
   - label: "Download as PDF"
     icon: pdf
-    url: "#pdf-asset"
+    url: "assets/files/cv_anisimov.pdf"
 ---
