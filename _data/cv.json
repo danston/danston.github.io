@@ -19,13 +19,23 @@
         "network": "Github",
         "username": "danston",
         "url": "https://github.com/danston"
+      },
+      {
+        "network": "LinkedIn",
+        "username": "dmitry-anisimov",
+        "url": "https://linkedin.com/in/dmitry-anisimov"
+      },
+      {
+        "network": "Medium",
+        "username": "rudanston",
+        "url": "https://medium.com/@rudanston"
       }
     ]
   },
   "work": [
     {
-      "company": "GeometryFactory (current)",
-      "position": "R&D engineer",
+      "company": "GeometryFactory",
+      "position": "R&D engineer, France",
       "website": "https://geometryfactory.com",
       "startDate": "01/05/2019",
       "endDate": "",
@@ -38,7 +48,7 @@
     },
     {
       "company": "Inria",
-      "position": "R&D engineer",
+      "position": "R&D engineer, France",
       "website": "https://team.inria.fr/titane/en/team",
       "startDate": "01/05/2017",
       "endDate": "30/04/2019",
@@ -50,8 +60,8 @@
       ]
     },
     {
-      "company": "Universita della Svizzera italiana",
-      "position": "Software developer",
+      "company": "USI",
+      "position": "Software developer, Switzerland",
       "website": "http://www.inf.usi.ch",
       "startDate": "01/05/2014",
       "endDate": "30/04/2017",
@@ -61,8 +71,8 @@
       ]
     },
     {
-      "company": "Universita della Svizzera italiana",
-      "position": "Teaching assistant",
+      "company": "USI",
+      "position": "Teaching assistant, Switzerland",
       "website": "http://www.inf.usi.ch",
       "startDate": "01/05/2011",
       "endDate": "30/04/2016",
@@ -73,8 +83,8 @@
       ]
     },
     {
-      "company": "Saint-Petersburg State University",
-      "position": "System administrator",
+      "company": "SPSU",
+      "position": "System administrator, Russia",
       "website": "http://www.apmath.spbu.ru/en/",
       "startDate": "01/05/2010",
       "endDate": "30/04/2011",
@@ -86,7 +96,7 @@
     },
     {
       "company": "Freelance",
-      "position": "Web developer",
+      "position": "Web developer, Russia",
       "startDate": "01/05/2007",
       "endDate": "30/04/2010",
       "summary": "Developing websites for private clients",
@@ -122,24 +132,42 @@
   ],
   "education": [
     {
-      "institution": "University of Ointment",
-      "area": "Digital Skillets",
-      "studyType": "Bachelor",
-      "startDate": "2011-06-01",
-      "endDate": "2014-01-01",
-      "gpa": "4.0",
+      "institution": "Universita della Svizzera italiana",
+      "area": "Generalized Barycentric Coordinates",
+      "studyType": "PhD in Informatics, Switzerland",
+      "startDate": "01/05/2012",
+      "endDate": "30/04/2017",
       "courses": [
-        "DB1101 - Perpendicular Crosstalk",
-        "CS2011 - Introduction to Moisturization"
+        "various informatics oriented courses"
+      ]
+    },
+    {
+      "institution": "Saint-Petersburg State University",
+      "area": "Applied Mathematics and Control Processes",
+      "studyType": "Master degree, Russia",
+      "startDate": "01/09/2005",
+      "endDate": "30/06/2010",
+      "courses": [
+        "various mathematics oriented courses"
+      ]
+    },
+    {
+      "institution": "High School 53",
+      "area": "Natural Sciences",
+      "studyType": "High school degree, Russia",
+      "startDate": "01/09/1995",
+      "endDate": "30/06/2005",
+      "courses": [
+        "various natural science oriented courses"
       ]
     }
   ],
   "awards": [
     {
-      "title": "Warble Pioneer Award",
-      "date": "2001-11-01",
-      "awarder": "Levi Goulet",
-      "summary": "Have you seen my turtle?"
+      "title": "The Best Poster Award",
+      "date": "2012",
+      "awarder": "NSF Workshop, New York, USA",
+      "summary": "Best poster on barycentric coordinates in geometry processing and finite/boundary element methods"
     }
   ],
   "publications": [
@@ -190,17 +218,25 @@
   ],
   "interests": [
     {
-      "name": "The Information Superhighway",
+      "name": "So many:",
       "keywords": [
-        "Ferrets",
-        "Unicorns"
+        "Design",
+        "Photography",
+        "Polular Science",
+        "Winter Sports",
+        "Swimming",
+        "Hiking",
+        "Reading",
+        "Board and Computer Games",
+        "Writing",
+        "Learning New Stuff"
       ]
     }
   ],
   "references": [
     {
-      "name": " Nannette Nananacci",
-      "reference": "It is my pleasure to recommend Dugan Nash, his performance working as a consultant for Main St. Company proved that he will be a valuable addition to any company."
+      "name": " Artiom Kovnatsky",
+      "reference": "I know Dmitry since we did together our PhDs (approx. 7 years). Dmitry is an outstanding professional: great programming and mathematical skills come together with high ethical standards. One can count on him once he committed to something, and it will be done on time: this quality together with his technical skills will be of high value to a company or a research institute that needs people to rely on when “things get tough”/project is not going as expected. Dmitry is a constant learner (you can find his side projects here: https://www.anisimovdmitry.com/) and a resourceful doer: not only did he conducted a great research during his PhD in the field of applied mathematics and computer graphics (PhD title: “Analysis and New Constructions of Generalized Barycentric Coordinates in 2D”, but he co-organised (we did this together) events in Lugano for PhD students (for up to 50 people), initiated and created with Teseo Schneider an app for kids (http://www.fourtoddler.altervista.org/), another safety-app with Randolf Scharfig (http://www.securexapp.altervista.org/), and many other side projects. Finally, Dmitry is a great team player and a good friend: you can count on him when you need it the most. I highly value Dmitry and if he decides to move to Berlin, he will be the first person I consider if I need a technical professional and highly reliable partner/colleague."
     }
   ]
 }
