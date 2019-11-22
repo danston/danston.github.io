@@ -7,7 +7,9 @@
     <div class="entry-content">
       {% for a in cv.awards %}
         {% if a.title %}
-          <h4 class="title">{{ a.title }}</h4>
+          <h4 class="title">
+            <a href="{{ a.website }}">{{ a.title }}</a>
+          </h4>
         {% endif %}
         {% if a.date %}
           <div class="date">{{ a.date }}</div>

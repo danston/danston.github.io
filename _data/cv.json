@@ -4,7 +4,6 @@
     "label": "PhD, R&D Engineer",
     "picture": "../assets/images/profile.png",
     "email": "dmitry.anisimov@geometryfactory.com",
-    "phone": "+33 7 67 37 22 52",
     "website": "https://www.anisimovdmitry.com",
     "summary": "R&D engineer specialized in applied mathematics and geometry processing.",
     "location": {
@@ -14,23 +13,7 @@
       "countryCode": "FR",
       "region": "Nice"
     },
-    "profiles": [
-      {
-        "network": "Github",
-        "username": "danston",
-        "url": "https://github.com/danston"
-      },
-      {
-        "network": "LinkedIn",
-        "username": "dmitry-anisimov",
-        "url": "https://linkedin.com/in/dmitry-anisimov"
-      },
-      {
-        "network": "Medium",
-        "username": "rudanston",
-        "url": "https://medium.com/@rudanston"
-      }
-    ]
+    "profiles": [ ]
   },
   "work": [
     {
@@ -164,37 +147,100 @@
   ],
   "awards": [
     {
-      "title": "The Best Poster Award",
+      "title": "The Best Paper Honorable Mention Award, together with A. Fedosov et al.",
+      "date": "2016",
+      "awarder": "",
+      "summary": "Design and Evaluation of a Wearable AR System for Sharing Personalized Content on Ski Resort Maps",
+      "website": "https://www.anisimovdmitry.com/assets/files/war_award.pdf"
+    },
+    {
+      "title": "The Best Poster Award, together with K. Hormann",
       "date": "2012",
       "awarder": "NSF Workshop, New York, USA",
-      "summary": "Best poster on barycentric coordinates in geometry processing and finite/boundary element methods"
+      "summary": "Best poster on barycentric coordinates in geometry processing and finite/boundary element methods",
+      "website": "https://www.anisimovdmitry.com/assets/files/poster_anisimov.pdf"
     }
   ],
   "publications": [
     {
-      "name": "Radio Julius",
-      "publisher": "Tanyo Lubbock",
-      "releaseDate": "2014-10-01",
-      "website": "https://en.rhy.es",
-      "summary": "Capitalize on low hanging fruit to identify a ballpark value added activity to beta test."
+      "name": "Generalized Barycentric Coordinates in Computer Graphics and Computational Mechanics",
+      "publisher": "Taylor && Francis, CRC Press",
+      "releaseDate": "Editors: Kai Hormann and N. Sukumar",
+      "website": "https://www.crcpress.com/Generalized-Barycentric-Coordinates-in-Computer-Graphics-and-Computational/Hormann-Sukumar/p/book/9781498763592",
+      "summary": "Book. First chapter. En. 2017"
+    },
+    {
+      "name": "Behaviour of Exponential Three-Point Coordinates at the Vertices of Convex Polygons",
+      "publisher": "Journal of Computational and Applied Mathematics",
+      "releaseDate": "Dmitry Anisimov, Kai Hormann, and Teseo Schneider",
+      "website": "https://www.anisimovdmitry.com/assets/files/ebc_anisimov.pdf",
+      "summary": "Article. En. 2019"
+    },
+    {
+      "name": "Analysis and New Constructions of Generalized Barycentric Coordinates in 2D",
+      "publisher": "Universita della Svizzera italiana",
+      "releaseDate": "Dmitry Anisimov",
+      "website": "https://www.anisimovdmitry.com/assets/files/phd_thesis_anisimov.pdf",
+      "summary": "Thesis. En. 2017"
+    },
+    {
+      "name": "Blended Barycentric Coordinates",
+      "publisher": "Computer Aided Geometric Design",
+      "releaseDate": "Dmitry Anisimov, Daniele Panozzo and Kai Hormann",
+      "website": "https://www.anisimovdmitry.com/assets/files/bbc_anisimov.pdf",
+      "summary": "Article. En. 2017"
+    },
+    {
+      "name": "Design and Evaluation of a Wearable AR System for Sharing Personalized Content on Ski Resort Maps",
+      "publisher": "Mobile and Ubiquitous Multimedia",
+      "releaseDate": "Anton Fedosov, Evangelos Niforatos, Ivan Elhart, Teseo Schneider, Dmitry Anisimov, Marc Langheinrich",
+      "website": "https://www.anisimovdmitry.com/assets/files/war_anisimov.pdf",
+      "summary": "Article. En. 2016"
+    },
+    {
+      "name": "Subdividing Barycentric Coordinates",
+      "publisher": "Computer Aided Geometric Design",
+      "releaseDate": "Dmitry Anisimov, Chongyang Deng and Kai Hormann",
+      "website": "https://www.anisimovdmitry.com/assets/files/sbc_anisimov.pdf",
+      "summary": "Article. En. 2016"
+    },
+    {
+      "name": "NP-Complete Problems Solving by Means of DNA Properties",
+      "publisher": "Saint-Petersburg State University",
+      "releaseDate": "Dmitry Anisimov",
+      "website": "https://www.anisimovdmitry.com/assets/files/master_thesis_anisimov.pdf",
+      "summary": "Thesis. Ru. 2010"
     }
   ],
   "skills": [
     {
-      "name": "Audio Juggling",
-      "level": "Master",
+      "name": "Coding:",
       "keywords": [
-        "Ointment",
-        "Voltor",
-        "Millipedes"
+        "C",
+        "C++",
+        "Java",
+        "Shell",
+        "Swift",
+        "Qt"
       ]
     },
     {
-      "name": "Bruschotti",
-      "level": "Satisfactory",
+      "name": "Writing/Web:",
       "keywords": [
-        "Snow camp",
-        "Owl"
+        "Latex",
+        "HTML",
+        "CSS",
+        "JS"
+      ]
+    },
+    {
+      "name": "Tools:",
+      "keywords": [
+        "Matlab",
+        "Maple",
+        "Maxima",
+        "PS",
+        "AI"
       ]
     }
   ],
@@ -235,7 +281,7 @@
   ],
   "references": [
     {
-      "name": " Artiom Kovnatsky",
+      "name": "Artiom Kovnatsky",
       "reference": "I know Dmitry since we did together our PhDs (approx. 7 years). Dmitry is an outstanding professional: great programming and mathematical skills come together with high ethical standards. One can count on him once he committed to something, and it will be done on time: this quality together with his technical skills will be of high value to a company or a research institute that needs people to rely on when “things get tough”/project is not going as expected. Dmitry is a constant learner (you can find his side projects here: https://www.anisimovdmitry.com/) and a resourceful doer: not only did he conducted a great research during his PhD in the field of applied mathematics and computer graphics (PhD title: “Analysis and New Constructions of Generalized Barycentric Coordinates in 2D”, but he co-organised (we did this together) events in Lugano for PhD students (for up to 50 people), initiated and created with Teseo Schneider an app for kids (http://www.fourtoddler.altervista.org/), another safety-app with Randolf Scharfig (http://www.securexapp.altervista.org/), and many other side projects. Finally, Dmitry is a great team player and a good friend: you can count on him when you need it the most. I highly value Dmitry and if he decides to move to Berlin, he will be the first person I consider if I need a technical professional and highly reliable partner/colleague."
     }
   ]
