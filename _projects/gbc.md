@@ -1,12 +1,12 @@
 ---
 title: "GBC"
 image: 
-  path: /assets/images/example.png
+  path: /assets/images/gbc.png
   thumbnail: /assets/images/gbc-thumb.png
   caption: "GBC"
 ---
 
-During my Ph.D. studies, I needed an efficient implementation of all currently 
+During my PhD studies, I needed an efficient implementation of all currently 
 available generalized barycentric coordinates that resulted in a set of 
 stand-alone classes for all coordinates.
 

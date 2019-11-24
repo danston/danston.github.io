@@ -10,11 +10,11 @@
   </header>
 
   <div class="entry-content">
-    {% if cv.basics.email %}
-      <div class="email"><strong>Email</strong> <a href="mailto:{{ cv.basics.email }}">{{ cv.basics.email }}</a></div>
-    {% endif %}
     {% if cv.basics.website %}
       <div class="website"><strong>Website</strong> <a href="{{ cv.basics.website }}">{{ cv.basics.website }}</a></div>
+    {% endif %}
+    {% if cv.basics.email %}
+      <div class="email"><strong>Email</strong> <a href="mailto:{{ cv.basics.email }}">{{ cv.basics.email }}</a></div>
     {% endif %}
     {% if cv.basics.phone %}
     <div class="phone"><strong>Phone</strong> {{ cv.basics.phone }}</div>

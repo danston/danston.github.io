@@ -1,7 +1,7 @@
 ---
 title: "WarpIt"
 image: 
-  path: /assets/images/example.png
+  path: /assets/images/warpit.png
   thumbnail: /assets/images/warpit-thumb.png
   caption: "WarpIt"
 ---

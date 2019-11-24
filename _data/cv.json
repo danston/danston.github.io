@@ -3,7 +3,7 @@
     "name": "Dmitry Anisimov",
     "label": "PhD, R&D Engineer",
     "picture": "../assets/images/profile.png",
-    "email": "dmitry.anisimov@geometryfactory.com",
+    "email": "dmitry {dot} anisimov {at} geometryfactory {dot} com",
     "website": "https://www.anisimovdmitry.com",
     "summary": "R&D engineer specialized in applied mathematics and geometry processing.",
     "location": {
@@ -11,7 +11,7 @@
       "postalCode": "06000",
       "city": "Nice",
       "countryCode": "FR",
-      "region": "Nice"
+      "region": ""
     },
     "profiles": [ ]
   },
@@ -26,7 +26,7 @@
       "highlights": [
         "3D urban reconstruction with levels of detail",
         "2D/3D shape regularization",
-        "Generalized barycentric interpolation"
+        "generalized barycentric interpolation"
       ]
     },
     {
@@ -37,8 +37,8 @@
       "endDate": "30/04/2019",
       "summary": "3D urban reconstruction",
       "highlights": [
-        "Applied research",
-        "Geometry-oriented approaches",
+        "applied research",
+        "geometry-oriented approaches",
         "2D/3D shape detection"
       ]
     },
@@ -50,7 +50,7 @@
       "endDate": "30/04/2017",
       "summary": "Backend/Frontend software developer",
       "highlights": [
-        "Geometry oriented projects"
+        "geometry oriented projects"
       ]
     },
     {
@@ -61,8 +61,8 @@
       "endDate": "30/04/2016",
       "summary": "Courses in mathematics and informatics",
       "highlights": [
-        "Bachelor and Master levels",
-        "Calculus, Linear Algebra, Geometry Processing, Computer Graphics"
+        "bachelor and master levels",
+        "calculus, geometry processing, computer graphics"
       ]
     },
     {
@@ -73,49 +73,51 @@
       "endDate": "30/04/2011",
       "summary": "Adiministrating several computer classes",
       "highlights": [
-        "Software configuration",
-        "Security issues"
+        "software configuration",
+        "security issues"
       ]
     },
     {
       "company": "Freelance",
       "position": "Web developer, Russia",
+      "website": "#unavailable",
       "startDate": "01/05/2007",
       "endDate": "30/04/2010",
       "summary": "Developing websites for private clients",
       "highlights": [
-        "Design, Development, SEO"
+        "design, development, SEO"
       ]
     }
   ],
   "volunteer": [
     {
-      "organization": "GSoC for CGAL project 2019",
-      "position": "Mentor",
+      "organization": "GSoC with CGAL project 2019",
+      "position": "<a href='https://www.anisimovdmitry.com/assets/files/gsoc2019_cfa_anisimov.pdf'>Mentor</a>",
       "website": "https://summerofcode.withgoogle.com/organizations/5935622787694592/",
       "startDate": "01/06/2019",
       "endDate": "31/08/2019",
-      "summary": "Mentoring Google Summer of Code CGAL projects",
+      "summary": "Mentoring Google Summer of Code with CGAL projects",
       "highlights": [
-        "Generalized Global Regularization"
+        "generalized global regularization"
       ]
     },
     {
-      "organization": "GSoC for CGAL project 2018",
-      "position": "Mentor",
+      "organization": "GSoC with CGAL project 2018",
+      "position": "<a href='https://www.anisimovdmitry.com/assets/files/gsoc2018_cfa_anisimov.pdf'>Mentor</a>",
       "website": "https://summerofcode.withgoogle.com/archive/2018/organizations/5076776166359040/",
       "startDate": "01/06/2018",
       "endDate": "31/08/2018",
-      "summary": "Mentoring Google Summer of Code CGAL projects",
+      "summary": "Mentoring Google Summer of Code with CGAL projects",
       "highlights": [
-        "Generalized Region Growing",
-        "Extending Generalized Barycentric Coordinates"
+        "generalized region growing",
+        "extending generalized barycentric coordinates"
       ]
     }
   ],
   "education": [
     {
       "institution": "Universita della Svizzera italiana",
+      "website": "http://www.inf.usi.ch",
       "area": "Generalized Barycentric Coordinates",
       "studyType": "PhD in Informatics, Switzerland",
       "startDate": "01/05/2012",
@@ -126,6 +128,7 @@
     },
     {
       "institution": "Saint-Petersburg State University",
+      "website": "http://www.apmath.spbu.ru/en/",
       "area": "Applied Mathematics and Control Processes",
       "studyType": "Master degree, Russia",
       "startDate": "01/09/2005",
@@ -136,7 +139,8 @@
     },
     {
       "institution": "High School 53",
-      "area": "Natural Sciences",
+      "website": "http://school53spb.ru",
+      "area": "Natural sciences",
       "studyType": "High school degree, Russia",
       "startDate": "01/09/1995",
       "endDate": "30/06/2005",
@@ -149,7 +153,7 @@
     {
       "title": "The Best Paper Honorable Mention Award, together with A. Fedosov et al.",
       "date": "2016",
-      "awarder": "",
+      "awarder": "MUM, Rovaniemi, Finland",
       "summary": "Design and Evaluation of a Wearable AR System for Sharing Personalized Content on Ski Resort Maps",
       "website": "https://www.anisimovdmitry.com/assets/files/war_award.pdf"
     },
@@ -157,17 +161,17 @@
       "title": "The Best Poster Award, together with K. Hormann",
       "date": "2012",
       "awarder": "NSF Workshop, New York, USA",
-      "summary": "Best poster on barycentric coordinates in geometry processing and finite/boundary element methods",
+      "summary": "Best Poster on Barycentric Coordinates in Geometry Processing and Finite/Boundary Element Methods",
       "website": "https://www.anisimovdmitry.com/assets/files/poster_anisimov.pdf"
     }
   ],
   "publications": [
     {
       "name": "Generalized Barycentric Coordinates in Computer Graphics and Computational Mechanics",
-      "publisher": "Taylor && Francis, CRC Press",
+      "publisher": "Taylor & Francis, CRC Press",
       "releaseDate": "Editors: Kai Hormann and N. Sukumar",
       "website": "https://www.crcpress.com/Generalized-Barycentric-Coordinates-in-Computer-Graphics-and-Computational/Hormann-Sukumar/p/book/9781498763592",
-      "summary": "Book. First chapter. En. 2017"
+      "summary": "Book. First chapter. En. 2017 with <a href='https://github.com/danston/gbc'>code</a>"
     },
     {
       "name": "Behaviour of Exponential Three-Point Coordinates at the Vertices of Convex Polygons",
@@ -181,28 +185,28 @@
       "publisher": "Universita della Svizzera italiana",
       "releaseDate": "Dmitry Anisimov",
       "website": "https://www.anisimovdmitry.com/assets/files/phd_thesis_anisimov.pdf",
-      "summary": "Thesis. En. 2017"
+      "summary": "Thesis. En. 2017 with <a href='https://github.com/danston'>code</a>"
     },
     {
       "name": "Blended Barycentric Coordinates",
       "publisher": "Computer Aided Geometric Design",
-      "releaseDate": "Dmitry Anisimov, Daniele Panozzo and Kai Hormann",
+      "releaseDate": "Dmitry Anisimov, Daniele Panozzo, and Kai Hormann",
       "website": "https://www.anisimovdmitry.com/assets/files/bbc_anisimov.pdf",
-      "summary": "Article. En. 2017"
+      "summary": "Article. En. 2017 with <a href='https://github.com/danston/blmv'>code</a>"
     },
     {
       "name": "Design and Evaluation of a Wearable AR System for Sharing Personalized Content on Ski Resort Maps",
       "publisher": "Mobile and Ubiquitous Multimedia",
-      "releaseDate": "Anton Fedosov, Evangelos Niforatos, Ivan Elhart, Teseo Schneider, Dmitry Anisimov, Marc Langheinrich",
+      "releaseDate": "Anton Fedosov, Evangelos Niforatos, Ivan Elhart, Teseo Schneider, Dmitry Anisimov, and Marc Langheinrich",
       "website": "https://www.anisimovdmitry.com/assets/files/war_anisimov.pdf",
       "summary": "Article. En. 2016"
     },
     {
       "name": "Subdividing Barycentric Coordinates",
       "publisher": "Computer Aided Geometric Design",
-      "releaseDate": "Dmitry Anisimov, Chongyang Deng and Kai Hormann",
+      "releaseDate": "Dmitry Anisimov, Chongyang Deng, and Kai Hormann",
       "website": "https://www.anisimovdmitry.com/assets/files/sbc_anisimov.pdf",
-      "summary": "Article. En. 2016"
+      "summary": "Article. En. 2016 with <a href='https://github.com/danston/sbc'>code</a>"
     },
     {
       "name": "NP-Complete Problems Solving by Means of DNA Properties",
@@ -219,18 +223,20 @@
         "C",
         "C++",
         "Java",
-        "Shell",
         "Swift",
-        "Qt"
+        "Shell",
+        "Qt",
+        ""
       ]
     },
     {
-      "name": "Writing/Web:",
+      "name": "Writing / Web:",
       "keywords": [
         "Latex",
         "HTML",
         "CSS",
-        "JS"
+        "JS",
+        ""
       ]
     },
     {
@@ -240,7 +246,8 @@
         "Maple",
         "Maxima",
         "PS",
-        "AI"
+        "AI",
+        ""
       ]
     }
   ],
@@ -275,7 +282,8 @@
         "Reading",
         "Board and Computer Games",
         "Writing",
-        "Learning New Stuff"
+        "Learning New Stuff",
+        ""
       ]
     }
   ],

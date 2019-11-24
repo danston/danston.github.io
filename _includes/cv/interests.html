@@ -11,7 +11,7 @@
             <h4 class="title">{{ i.name }}</h4>
           {% endif %}
           {% if i.keywords %}
-            <span class="keywords">{{ i.keywords | array_to_sentence_string }}</span>
+            <span class="keywords">{{ i.keywords | array_to_sentence_string: " etc." }}</span>
           {% endif %}
         </div>
       {% endfor %}

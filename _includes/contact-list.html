@@ -16,6 +16,10 @@
     <li>{% include icon-linkedin.html username=site.linkedin_username label='LinkedIn' %}</li>
   {% endif %}
 
+  {% if site.facebook_username %}
+    <li>{% include icon-facebook.html username=site.facebook_username label='Facebook' %}</li>
+  {% endif %}
+
   {% if site.medium_username %}
     <li>{% include icon-medium.html username=site.medium_username label='Medium' %}</li>
   {% endif %}
