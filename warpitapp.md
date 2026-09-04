@@ -15,6 +15,6 @@ The primary challenge lies in avoiding excessive fold-overs with the control pol
 
 [`See App here.`](https://github.com/danston/warpit)
 
-[`All visuals can be downloaded here.`](../assets/files/warpit-visuals-anisimov.zip)
+[`All visuals can be downloaded here.`](../assets/files/warpitapp-visuals-anisimov.zip)
 
 <img src="../assets/files/warpitapp-preview.png" alt="WarpIt App" title="WarpIt App" />
