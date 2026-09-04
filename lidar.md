@@ -34,8 +34,7 @@ the most common closed-form 2D generalized barycentric coordinate functions.
 
 ### Work With
 
-[Pierre Alliez](https://team.inria.fr/titane/pierre-alliez/), [David Bommes](https://cgg.unibe.ch/person/1/), 
-[Thien Hoang](https://www.linkedin.com/in/tvhoang/), [Gennadii Sytov](https://www.linkedin.com/in/gvsytov/), et al.
+[Pierre Alliez](https://team.inria.fr/titane/pierre-alliez/), [David Bommes](https://cgg.unibe.ch/person/1/), [Thien Hoang](https://www.linkedin.com/in/tvhoang/), [Gennadii Sytov](https://www.linkedin.com/in/gvsytov/), et al.
 
 ### Resources
 

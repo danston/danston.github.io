@@ -16,7 +16,7 @@ However, as the number of vertices in the input polygon grows, and the polygon b
 
 ### Work With
 
-[Kai Hormann](https://www.inf.usi.ch/hormann/), [Teseo Schneider](https://web.uvic.ca/~teseo/), [Daniele Panozzo](https://cims.nyu.edu/gcl/daniele.html), et al.
+[Kai Hormann](https://www.inf.usi.ch/hormann/), [Teseo Schneider](https://web.uvic.ca/~teseo/), [Daniele Panozzo](https://cims.nyu.edu/gcl/daniele.html), [Chongyang Deng](https://scholar.google.com/citations?user=nLKaAxMAAAAJ&hl=zh-CN), et al.
 
 ### Resources
 

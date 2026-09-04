@@ -16,8 +16,7 @@ All 3D objects were automatically generated from simple input data. For instance
 
 ### Work With
 
-[Charly Delaroche](https://www.linkedin.com/in/charly-delaroche-949a2391/), [Matt Amos](https://www.linkedin.com/in/matt-amos-94175ba0/), 
-[Hannes Janetzek](https://www.linkedin.com/in/hannes-janetzek-399340115/), et al.
+[Charly Delaroche](https://www.linkedin.com/in/charly-delaroche-949a2391/), [Matt Amos](https://www.linkedin.com/in/matt-amos-94175ba0/), [Hannes Janetzek](https://www.linkedin.com/in/hannes-janetzek-399340115/), [Rodolphe Cargou](https://www.linkedin.com/in/rodolphe-cargou-7a8167124/) et al.
 
 ### Resources
 

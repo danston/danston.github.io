@@ -11,10 +11,6 @@ As a side project during my PhD, I developed a small program for warping 2D imag
 
 The primary challenge lies in avoiding excessive fold-overs with the control polygon, a common issue in such scenarios. To mitigate this, I employed new subdividing barycentric coordinates, chosen for their properties that ensure smooth warping effects. The process involves triangulating and subdividing the polygon beneath the image, computing these coordinates, and then utilizing them to warp the image.
 
-### Work With
-
-[Teseo Schneider](https://web.uvic.ca/~teseo/)
-
 ### Resources
 
 [`See App here.`](https://github.com/danston/warpit)

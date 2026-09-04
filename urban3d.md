@@ -14,8 +14,7 @@ Finally, the error accumulation does not make the life easier. Making a small er
 
 ### Work With
 
-[Pierre Alliez](https://team.inria.fr/titane/pierre-alliez/), [Simon Giraudot aka Gee](https://ptilouk.net/), 
-[Florent Lafarge](https://www-sop.inria.fr/members/Florent.Lafarge/), and [Andreas Fabri](https://geometryfactory.com/who-we-are/).
+[Pierre Alliez](https://team.inria.fr/titane/pierre-alliez/), [Simon Giraudot (aka Gee)](https://ptilouk.net/), [Florent Lafarge](https://www-sop.inria.fr/members/Florent.Lafarge/), and [Andreas Fabri](https://geometryfactory.com/who-we-are/).
 
 ### Resources
 
