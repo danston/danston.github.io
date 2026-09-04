@@ -1,6 +1,9 @@
 ---
+layout: page
 title: Posts
-layout: posts
-permalink: /posts/
-entries_layout: list
+pagination:
+  enabled: true
 ---
+
+{% include postlist.html %}
+{% include pagination.html %}

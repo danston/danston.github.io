@@ -1,92 +1,48 @@
-# Welcome to Jekyll!
-#
-# This config file is meant for settings that affect your whole blog, values
-# which you are expected to set up once and rarely edit after that. If you find
-# yourself editing this file very often, consider using Jekyll's data files
-# feature for the data you need to update frequently.
-#
-# For technical reasons, this file is *NOT* reloaded automatically when you use
-# 'bundle exec jekyll serve'. If you change this file, please restart the server process.
+title: Dmitry ANISIMOV
+description: Senior 3D Geometry · C++ Engineer · PhD
+baseurl: ""
+url: https://anisimov.work
 
-# Site settings
-# These are used to personalize your new site. If you look in the HTML files,
-# you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
-# You can create any custom variable you would like, and they will be accessible
-# in the templates via {{ site.myvariable }}.
-lang: en-US
-title: Dmitry Anisimov, PhD, R&D Engineer
-email: dmitry.anisimov@geometryfactory.com
-description: My personal website
-baseurl: # the subpath of your site, e.g. /blog
-url: "https://www.anisimovdmitry.com" # the base hostname & protocol for your site, e.g. http://example.com
+theme: cvless
+
+# site settings
+taglong: Senior 3D Geometry · C++ Engineer · PhD
+tagshort: Senior 3D Geometry · C++ Engineer · PhD
+
+# author settings
 author:
-  name: Dmitry Anisimov 
-  twitter: 
-  picture: 
-twitter_username: 
-github_username: danston
-medium_username: rudanston
-facebook_username: rudanston
-linkedin_username: dmitry-anisimov
-logo: /assets/icons/logo.png
-search: false
-search_full_content: false
-search_provider: 
-algolia:
-  application_id: 
-  index_name: 
-  search_only_api_key: 
-  powered_by: false # true (default), false
+  name: Dmitry ANISIMOV
+  email: rudanston@gmail.com
+photo: assets/files/photo.jpg
+joblines:
+  - Samp
+  - Geometry Lead
+  - Paris, France
+address: Paris, France
+phone: +33767372252
 
-# Liquid
-liquid:
-  error_mode: strict
+# profile links
+profile:
+  instagram: https://www.instagram.com/rudanston
+  linkedin: https://www.linkedin.com/in/dmitry-anisimov
+  github: https://github.com/danston
+  cv: assets/files/en-cv-anisimov.pdf
 
-# Build settings
-markdown: kramdown
-theme: jekyll-theme-basically-basic
-plugins: # previously gems
+# build settings
+permalink: pretty
+exclude:
+  - LICENSE
+  - README.md
+  - Gemfile
+  - vendor/
+
+plugins:
+  - jekyll-feed
+  - jekyll-gist
+  - jekyll-paginate-v2
   - jekyll-seo-tag
   - jekyll-sitemap
-  - jekyll-paginate
-feed:
-  path: atom.xml
 
-# Pagination - https://jekyllrb.com/docs/pagination/
-paginate: 5
-paginate_path: /page:num/
-
-# Exclude from processing.
-# The following items will not be processed, by default. Create a custom list
-# to override the default setting.
-# exclude:
-#   - Gemfile
-#   - Gemfile.lock
-#   - node_modules
-#   - vendor/bundle/
-#   - vendor/cache/
-#   - vendor/gems/
-#   - vendor/ruby/
-
-# Collections
-collections:
-  projects:
-    output: true
-    permalink: /:collection/:path/
-
-# Front Matter Defaults
-defaults:
-  # _posts
-  - scope:
-      path: "_posts"
-      type: posts
-    values:
-      layout: post
-      read_time: true
-  # _projects
-  - scope:
-      path: "_projects"
-      type: projects
-    values:
-      layout: post
-      read_time: true
+sass:
+  sourcemap: never
+  

@@ -1,2 +1,3 @@
 source "https://rubygems.org"
-gemspec
+
+gem 'cvless', '~> 2.7', '>= 2.7.4'

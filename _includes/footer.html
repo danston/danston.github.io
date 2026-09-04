@@ -1,12 +1,4 @@
-<footer id="footer" class="site-footer">
-  <div class="inner">
-    <div class="copyright">
-      {% if site.copyright %}
-        {{ site.copyright | markdownify }}
-      {% else %}
-        <p>&copy; {{ site.time | date: '%Y' }} {{ site.title }}. Powered by 
-          <a href="https://mademistakes.com" target="_blank">mmistakes</a>.</p>
-      {% endif %}
-    </div>
-  </div>
+<footer>
+  <small>&copy; <time datetime="{{ site.time | date_to_xmlschema }}">{{ site.time | date: '%Y' }}</time>
+    {{ site.author.name }}. All rights reserved.</small>
 </footer>
