@@ -5,11 +5,8 @@ title: CGAL
 
 # CGAL
 
-Over nearly three years, I actively contributed to the open-source CGAL library (Computational Geometry Algorithms Library). 
-My initial encounter with CGAL was during my internship at Inria in 2013, within the Titane team where I was supervised by Pierre Alliez and David Bommes. 
-During this time, we developed the inaugural version of the 2D Generalized Barycentric Coordinates package for CGAL. Later, in 2019, 
-I joined GeometryFactory, where I worked on various geometric tasks heavily involving CGAL. This included the addition of multiple 
-new packages and substantial contributions to existing packages.
+Over nearly eight years, I actively contributed to the open-source CGAL library (Computational Geometry Algorithms Library). 
+My initial encounter with CGAL was during my internship at Inria in 2013, within the Titane team where I was supervised by Pierre Alliez and David Bommes. During this time, we developed the inaugural version of the 2D Generalized Barycentric Coordinates package for CGAL. Later, in 2019, I joined GeometryFactory, where I worked until 2021 on various geometric tasks heavily involving CGAL. This included the addition of multiple new packages and substantial contributions to existing packages.
 
 ### Contributions
 

@@ -6,16 +6,12 @@ title: CGAL
 # CGAL
 
 Over nearly three years, I actively contributed to the open-source CGAL library (Computational Geometry Algorithms Library). 
-My initial encounter with CGAL was during my internship at Inria in 2013, within the Titane team where I was supervised by Pierre Alliez and David Bommes. 
-During this time, we developed the inaugural version of the 2D Generalized Barycentric Coordinates package for CGAL. Later, in 2019, 
-I joined GeometryFactory, where I worked on various geometric tasks heavily involving CGAL. This included the addition of multiple 
-new packages and substantial contributions to existing packages.
+My initial encounter with CGAL was during my internship at Inria in 2013, within the Titane team where I was supervised by Pierre Alliez and David Bommes. During this time, we developed the inaugural version of the 2D Generalized Barycentric Coordinates package for CGAL. Later, in 2019, I joined GeometryFactory, where I worked on various geometric tasks heavily involving CGAL. This included the addition of multiple new packages and substantial contributions to existing packages.
 
 ### Contributions
 
 - [Region Growing algorithm](https://doc.cgal.org/latest/Shape_detection/index.html#Shape_detection_RegionGrowing) as part of 
-the Shape Detection package that enables to grow arbitrary-shape regions given user-defined constraints. That can be used to detect 
-such shapes as lines, planes, circles, and others.
+the Shape Detection package that enables to grow arbitrary-shape regions given user-defined constraints. That can be used to detect such shapes as lines, planes, circles, and others.
 
 - [Shape Regularization package](https://doc.cgal.org/latest/Shape_regularization/index.html) that enables to regularize segments, 
 lines, and polygons both in 2D and 3D.

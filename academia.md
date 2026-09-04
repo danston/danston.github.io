@@ -5,21 +5,14 @@ title: Academia
 
 # Academia
 
-Throughout my academic journey, I spent five years at the Faculty of Applied Mathematics and Control Processes at Saint-Petersburg State University, 
-completing my MSc thesis. Subsequently, I dedicated another five years at the Faculty of Informatics at Università della Svizzera italiana in Switzerland, 
-where I pursued my Ph.D. and crafted my doctoral thesis. During this period, I actively participated in various associated projects and 
-contributed to several articles, which you can find here.
+Throughout my academic journey, I spent five years at the Faculty of Applied Mathematics and Control Processes at Saint-Petersburg State University, completing my MSc thesis. Subsequently, I dedicated another five years at the Faculty of Informatics at Università della Svizzera italiana in Switzerland, where I pursued my Ph.D. and crafted my doctoral thesis. During this period, I actively participated in various associated projects and contributed to several articles, which you can find here.
 
 ### Challenges
 
 My academic research primarily revolved around generalized barycentric coordinates and their applications to geometry processing. 
-Barycentric coordinates constitute a coordinate system where the position of a point is defined in relation to a polygon, whether in 2D or 3D space. 
-These coordinates exhibit favorable properties when the input polygon is a triangle, facilitating their use in various geometry processing applications 
-such as shape deformation, mesh parameterization, and more.
+Barycentric coordinates constitute a coordinate system where the position of a point is defined in relation to a polygon, whether in 2D or 3D space. These coordinates exhibit favorable properties when the input polygon is a triangle, facilitating their use in various geometry processing applications such as shape deformation, mesh parameterization, and more.
 
-However, as the number of vertices in the input polygon grows, and the polygon becomes concave, certain properties of these coordinates are compromised. 
-The objective was to identify coordinate functions that retained all the original properties even for such polygons. Our research team successfully 
-proposed several coordinate functions that met these criteria.
+However, as the number of vertices in the input polygon grows, and the polygon becomes concave, certain properties of these coordinates are compromised. The objective was to identify coordinate functions that retained all the original properties even for such polygons. Our research team successfully proposed several coordinate functions that met these criteria.
 
 ### Work With
 
