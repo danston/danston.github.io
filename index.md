@@ -9,7 +9,7 @@ Senior C++ / 3D Geometry Engineer with 10+ years of experience building large-sc
 from research and algorithms to production.
 
 [MSc in Applied Mathematics](assets/files/msc-thesis-anisimov.pdf) and [PhD in Informatics](assets/files/phd-thesis-anisimov.pdf), 
-with expertise spanning computational geometry, large-scale point-cloud processing, LiDAR, mesh processing, 3D reconstruction, shape simplification, geometry kernels, perception, and 3D AI. Experienced across research, open source, startups, and large-scale technology products.
+with expertise spanning computational geometry, large-scale point-cloud processing, LiDAR, perception, mesh processing, shape simplification, geometry kernels, 3D reconstruction and 3D AI. Experienced across research, open source, startups, and large-scale technology products.
 
 # My Story
 
